@@ -1,19 +1,18 @@
-# Planner App
+# Planner App 🗓️✨
 
-A React-based calendar application that helps users manage daily tasks efficiently by adding, editing, deleting, and tracking task completion with visual progress indicators.
+A React-based calendar application that helps users efficiently manage daily tasks with an intuitive interface and color-coded progress indicators.
 
 ---
 
-## Features
+## 🚀 Features
 
-- Interactive monthly calendar view with date-based task indicators:
-  - **Red**: Tasks assigned but none completed.
-  - **Orange**: Partial task completion.
-  - **Green**: All tasks completed.
-- Add, edit, and delete tasks assigned to specific dates.
-- Mark tasks as done/undone to track progress.
-- Tasks are persisted in browser `localStorage` for data retention between sessions.
-- Responsive and user-friendly interface with dynamic color-coded feedback.
+- Interactive monthly calendar view with date-based task indicators:  
+  🔴 **Red** – Tasks assigned but none completed  
+  🟠 **Orange** – Partial task completion  
+  🟢 **Green** – All tasks completed  
+- Full CRUD functionality for tasks: add, edit, delete, and mark as done ✅  
+- Persistent task storage using browser `localStorage` 💾  
+- Responsive UI with dynamic color-coded feedback for better user experience 🎨
 
 ---
 
